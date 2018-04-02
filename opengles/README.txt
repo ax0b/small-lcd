@@ -1,0 +1,1 @@
+This is an OpenGLES/Qt demo for Raspberry Pi 3 based on the generic demo provided with Raspbian. It shows how the Qt framework may be joined with the OPenGLES API in a shortest way. The program doesn't rely on X servers and runs in a "fullscreen" mode.
